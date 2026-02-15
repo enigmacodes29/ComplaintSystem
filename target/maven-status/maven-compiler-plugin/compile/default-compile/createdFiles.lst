@@ -1,7 +1,0 @@
-com\complaint\servlets\TrackComplaintServlet.class
-com\complaint\servlets\LogoutServlet.class
-com\complaint\servlets\UpdateComplaintServlet.class
-com\complaint\servlets\AdminDashboardServlet.class
-com\complaint\util\DBConnection.class
-com\complaint\servlets\RegisterComplaintServlet.class
-com\complaint\servlets\AdminLoginServlet.class
